@@ -11,6 +11,7 @@ def init_db
 end
 
 before do
+	init_db
 
 end
 
